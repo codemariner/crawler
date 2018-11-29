@@ -1,0 +1,10 @@
+{
+  analyzer: {
+    // the number of pages to evaluate per analysis request
+    pageConcurrency: 2,
+  },
+
+  server: {
+    port: 3000,
+  }
+}
